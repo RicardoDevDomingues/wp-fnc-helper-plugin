@@ -15,7 +15,7 @@ class CustomAdminPages
         $page = '<div class="wc-fnc-helper-wrapper">';
         $page .= '<h1>' . WC_FNC_HELPER_PLUGIN_NAME . '</h1>';
 
-        $page .= '<div class="wc-fnc-helper-title-container m-50"><h2>Problematic variable products:</h2></div>';
+        $page .= '<div class="wc-fnc-helper-title-container mt-50"><h2>Problematic variable products:</h2></div>';
 
         $countProblematicProducts = 0;
 
